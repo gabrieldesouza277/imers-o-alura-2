@@ -1,0 +1,6 @@
+{
+  "name": "PyMath Antigravity - Calculadora Científica e Matemática em Python",
+  "description": "Calculadora matemática avançada com Porcentagem, Escala, Probabilidade, Regra de Três, Geometria Plana e Espacial, execução de código Python e Modo Google Antigravity interativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
